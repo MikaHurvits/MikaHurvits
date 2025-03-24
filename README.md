@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Mika Hurvits! 👋
+
+🧠 Problem solver at heart with an insatiable curiosity for mathematical elegance and computational challenges
+
+🕸️ Fascinated by the beauty of mathematics, the potential of machine learning, and lately diving deep into the intricacies of cyber security
+
+🛠️ Builder of useful automation tools that make everyday life just a bit more magical
+
+🌐 Passionate about crafting scalable, performant web applications that solve real-world problems
+
+When I'm not diving into code or unraveling mathematical puzzles, you'll find me exploring new technologies and looking for the next interesting challenge to tackle!
+
+
+
 
 <!--
 **MikaHurvits/MikaHurvits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
